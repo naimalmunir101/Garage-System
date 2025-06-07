@@ -1,4 +1,4 @@
-# Auto Workshop Management System (C++ Project)
+# Auto Workshop Management System
 
 This is a C++ project I built for managing an Auto Repair Workshop — basically, it handles everything from registering customers and their cars to tracking repairs and garage status. Think of it like a backend system that powers a smart car repair shop.
 
